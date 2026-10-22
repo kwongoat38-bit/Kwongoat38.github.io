@@ -1,2 +1,25 @@
-# Kwongoat38.github.io
-Hi I’m Kwon and I’m a normal guy who’s trying to be a cybersecurity I’m currently studied Linux and I wanted to build a GitHub website and I’m doing it for cybersecurity I hope I can do some cybersecurity projects and more soon…
+# 1. Project Title (H1)
+
+A concise description of your repository or tool.
+
+## 2. Key Features (H2)
+
+* **Feature A** - Quick summary.
+* **Feature B** - Quick summary.
+
+### 3. Sub-Section: Technical Details (H3)
+
+Deep-dive information regarding architecture or configuration details.
+
+#### 4. Component Breakdown (H4)
+
+Specific granular details about modules, folders, or individual components.
+
+##### 5. Edge Cases & Known Issues (H5)
+
+Minor notes for developers or users encountering specific environments.
+
+###### 6. Footnotes & References (H6)
+
+The smallest heading level, perfect for legal disclaimers, micro-notes, or credits.
+
